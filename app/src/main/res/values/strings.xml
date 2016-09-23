@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Underline text in android</string>
+    <string name="underline_key"><u>Underline text in android</u></string>
+</resources>
